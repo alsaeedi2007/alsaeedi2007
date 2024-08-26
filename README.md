@@ -3,7 +3,7 @@ I'm currently working on computer networks
 I'm looking to collaborate on network open source solutions
 I'm looking for help with Linux admins 
 I'm currently learning TCP/IP implementation on C language, network automation, Linux administration,   Dockers and containers, Kubernetes, Cloud.
-Ask me about : networking, VoIP, Wireshark, Traffic Analysis, Firewalls, network security
+Ask me about : networking, VoIP, Wireshark, Traffic Analysis, Network OpenSource, network security
 " Computing is about insight … "  
 I'm also curious about Devops 
    
