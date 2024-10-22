@@ -6,7 +6,8 @@ I'm currently learning TCP/IP implementation on C language, network automation, 
 Ask me about : networking, VoIP, Wireshark, Traffic Analysis, Network OpenSource, network security
 " Computing is about insight … "  
 I'm also curious about Devops 
-   
+
+## ِAreas of Expertise  
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alsaeedi-967b233b) 
@@ -24,8 +25,7 @@ I'm also curious about Devops
 [![](https://visitcount.itsvg.in/api?id=alsaeedi2007&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alsaeedi2007&icon=0&color=0)](https://visitcount.itsvg.in)
