@@ -7,7 +7,7 @@ Ask me about : networking, VoIP, Wireshark, Traffic Analysis, Network OpenSource
 " Computing is about insight … "  
 I'm also curious about Devops 
 
-## ِAreas of Expertise  
+## ِ💫Areas of Expertise  
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alsaeedi-967b233b) 
