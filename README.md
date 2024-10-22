@@ -39,6 +39,7 @@ Cisco Switching - Cisco Routing - Firewall - Firepower - FTD - FMC - Fortigate F
 
 ✓ Working as network automation engineer using TCL, EEM and Ansible
 
+### Senior Network & Collaboration Engineer, \href{https://www.mcit.gov.sa/}{MCIT} Ministry of Communication RIYADH, KSA 03/2018 - 12/2019
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alsaeedi-967b233b) 
 
