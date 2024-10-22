@@ -1,4 +1,9 @@
 # 💫About Me :
+Senior network engineer with 13+ years of experience managing enterprise infrastructure, data centers and collaboration
+networks. Skilled in building, managing and troubleshooting networks. Regularly exceed performance targets and possess
+advanced analytical and problem solving skills. Adept at leveraging cutting-edge networking technologies and platforms to
+achieve enterprise objectives.
+
 I'm currently working as network engineer
 I'm looking to collaborate on network open source solutions
 I'm looking for help with Linux admins 
