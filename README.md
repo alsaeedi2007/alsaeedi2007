@@ -20,6 +20,25 @@ Internet Security & object oriented programming.
 ## 💫Areas of Expertise  
 Cisco Switching - Cisco Routing - Firewall - Firepower - FTD - FMC - Fortigate Firewall - Fortianalyzer - Packet Analysis
 - Packet Capture - Nexus Switching - Nexus 7K - Nexus 9K - SDN - SDWAN - CUCM 14.x - Expressway - Cisco Webex
+
+## Professional Experience 
+Senior Network & Collaboration Engineer , (Specialized Technical Services) RIYADH, KSA 01/2020 - present
+✓ Working as network implementation engineer in network department ( Hardware Services).
+
+✓ Working as Collaboration implementation engineer in network department ( Hardware Services).
+
+✓ Working on customer issues and resolve customer problems (the customer SLA)
+
+✓ Working and revising project technical proposals
+
+✓ Implement an Open-Source network solutions
+
+✓ Handling DALLAH Hospital issues
+
+✓ Working as network Analyst (Traffic analysis engineer using capture tools) and resolve performance and complex network issues
+
+✓ Working as network automation engineer using TCL, EEM and Ansible
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alsaeedi-967b233b) 
 
