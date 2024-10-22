@@ -7,7 +7,8 @@ Ask me about : networking, VoIP, Wireshark, Traffic Analysis, Network OpenSource
 " Computing is about insight … "  
 I'm also curious about Devops 
 # Eduaction 
-BSc Information Technology University of Aden Aden, YEMEN 2007-2008
+BSc Information Technology University of Aden , YEMEN 2007-2008
+
 Relevant Courses: Software and Hardware, Data Structure, Artificial Intelligence, Computer Networks, Network and
 Internet Security & object oriented programming.
 
