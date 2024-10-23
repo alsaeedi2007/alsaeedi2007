@@ -62,6 +62,8 @@ Cisco Switching - Cisco Routing - Firewall - Firepower - FTD - FMC - Fortigate F
 
 ## Senior Network & Collaboration Engineer, [CTC](https://www.ctc.sa) RIYADH, KSA 03/2016 - 03/2018
 
+![CTC](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/CTC.png)
+
 ✓ Guiding a sales team (STC EBU team) for the services related to STC (DIA, DIA light, DIAS, IP VPN Circuit, PLL, VPLS
 circuits, VSAT).
 
