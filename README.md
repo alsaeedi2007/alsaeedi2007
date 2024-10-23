@@ -23,6 +23,7 @@ Cisco Switching - Cisco Routing - Firewall - Firepower - FTD - FMC - Fortigate F
 
 # Professional Experience 
 ## Senior Network & Collaboration Engineer , (Specialized Technical Services) RIYADH, KSA 01/2020 - present
+![STS](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/STS.png)
 ✓ Working as network implementation engineer in network department ( Hardware Services).
 
 ✓ Working as Collaboration implementation engineer in network department ( Hardware Services).
@@ -40,6 +41,7 @@ Cisco Switching - Cisco Routing - Firewall - Firepower - FTD - FMC - Fortigate F
 ✓ Working as network automation engineer using TCL, EEM and Ansible
 
 ## Senior Network & Collaboration Engineer, [MCIT](https://www.mcit.gov.sa) Ministry of Communication RIYADH, KSA 03/2018 - 12/2019
+![MCIT](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/MCIT.png)
 
 ✓ Working as senior network engineer in ministry infrastructure.
 
