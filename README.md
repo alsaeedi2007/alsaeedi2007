@@ -87,6 +87,8 @@ circuits, VSAT).
 
 ## Design & Estimation Engineer OTC Operation & Technology Company RIYADH , KSA 03/2012 - 01/2014
 
+![OTC](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/OTC.png)
+
 ✓ worked as Design and Estimation Engineer Integrated System department
 
 ✓ Troubleshoot, fix and Configure Wireless Internet Project in Prince Sultan Palace (Connecting 8 Buildings together with DIA
