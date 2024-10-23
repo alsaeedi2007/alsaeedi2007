@@ -100,6 +100,8 @@ Line 155 Mbps )
 
 ## Network Engineer, ITCC IT Codes Company Medina Province, KSA 02/2011 - 02/2012
 
+![AKWAD](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/AKWAD.png)
+
 ✓ worked as Network Engineer & Project Manager for (Information Technology Codes Company (ITCC) in project of IP Surveillance System Maintenance in Medina province.
 
 ✓ Implementing and configuring IP-VPN for connecting Two Site together using PEPLINK Product, implementing wireless Connectivity on PEPWAVE as well.
@@ -115,6 +117,8 @@ Line 155 Mbps )
 ✓ Implementation of Network infrastructure for Saudi Police Center – Medina province
 
 ## Junior Network Engineer, Al-SAIF Arabian Projects Madina , KSA 01/2010 - 12/2011 
+
+![MCIT](https://github.com/alsaeedi2007/alsaeedi2007/blob/main/Alsaifco.png)
 
 ✓ Upgrade the infrastructure of General Administration of Education in Madina province
 
